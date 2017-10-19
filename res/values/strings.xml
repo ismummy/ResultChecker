@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Result Checker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="level">
+        <item > "100H" </item>
+        <item > "100R" </item>
+        <item > "200H" </item>
+        <item > "200R" </item>
+        <item > "300H" </item>
+        <item > "300R" </item>
+        <item > "400H" </item>
+        <item > "400R" </item>
+        <item > "500H" </item>
+        <item > "500R" </item>
+    </string-array>
+
+</resources>
